@@ -1,6 +1,4 @@
 # hello-world
-The greatest reposistory ever told
-
 
 
 Through the git we allow our code to mould
